@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="add">Add button</string>
+    <string name="empty_text">Track your favorite repo</string>
+    <string name="add_repo">Add Repo</string>
+    <string name="demo">Roop Kumar</string>
+    <string name="demo_text">Create an android app where the user can track his favourite github repositories. Landing screen: It shows list of different repositories added by the user and allow user to add a new one as well. The Action bar shows a add \'+\' button to add a repo and links to</string>
+    <string name="share_button">share</string>
+    <string name="backbutton">Back button</string>
+    <string name="owner">Owner</string>
+    <string name="repo_name">Public Repository Name</string>
+</resources>
